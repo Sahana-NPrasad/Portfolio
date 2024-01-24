@@ -1,5 +1,5 @@
 #My_Portfolio
-
+----------------------------------------------
 Hi, I am Sahana N Prasad
 A UX Designer, crafting digital interface pixel by pixel.
 With a Degree in Comupter Science and User Experience my strength lies in big picture thinking and not being lost in the data. I love people, hence I keep people at the center of all my design decisions.
